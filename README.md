@@ -1,6 +1,6 @@
 # yuan-website.github.io
 
-This repository is for the website of Prof. Yuan's group at SHAO (center.shao.ac.cn/fyuan). It hosts some static files and most importantly, the club_activities.html which can be edited here directly and is used to serve website's journal club webpage (http://center.shao.ac.cn/fyuan/journalclub.html).
+This repository is for the website of Prof. Yuan's group at SHAO (http://center.shao.ac.cn/fyuan). It hosts some static files and most importantly, the club_activities.html which can be edited here directly and is used to serve website's journal club webpage (http://center.shao.ac.cn/fyuan/journalclub.html).
 
 # For the organiser of Journal club
 
