@@ -4,15 +4,15 @@ This repository is for the website of Prof. Yuan's group at SHAO (center.shao.ac
 
 # For the organiser of Journal club
 
-What needs to be modified in club_activities.html is quite straightforward - just copy the code between `<tr>` and `</tr>` in `<tbody>` and edit it accordingly. For example:
+What needs to be modified in club_activities.html is quite straightforward - just copy the code between `<tr>` and `</tr>` in `<tbody>` and edit it accordingly. For example, the following shows the code snippet that should be copied and modified:
   ```html
-  <tr>
+<tr>
 	<td>Mar 20, 2019</td>
 	<td>2:00 pm</td>
 	<td>1608</td>
 	<td>XXXxxx XXX</td>
 	<td><a href="http://adsabs.harvard.edu/abs/1992ApJS...80..753S5" target="_parent">ZEUS-2D: A radiation magnetohydrodynamics code for astrophysical flows in two space dimensions. I - The hydrodynamic algorithms and tests.</a></td>
-	</tr>
+</tr>
  ```
 Then commit the changes and Github will do the rest of the work for you.
 
