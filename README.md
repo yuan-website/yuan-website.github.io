@@ -1,10 +1,10 @@
 # yuan-website.github.io
 
-This repository is for the website of Prof. Yuan's group at SHAO (http://center.shao.ac.cn/fyuan). It hosts some static files and most importantly, the club_activities.html which can be edited here directly and is used to serve website's journal club webpage (http://center.shao.ac.cn/fyuan/journalclub.html).
+This repository is for the website of Prof. Yuan's group at SHAO (http://center.shao.ac.cn/fyuan). It hosts some static files and most importantly, the `club_activities.html` which can be edited here directly and is used to serve website's journal club webpage (http://center.shao.ac.cn/fyuan/journalclub.html).
 
 # For the organiser of Journal club
 
-What needs to be modified in club_activities.html is quite straightforward - just copy the code between `<tr>` and `</tr>` in `<tbody>` and edit it accordingly. For example, the following shows the code snippet that should be copied and modified:
+What needs to be modified in `club_activities.html` is quite straightforward - just copy the code between `<tr>` and `</tr>` in `<tbody>` and edit it accordingly. For example, the following shows the code snippet that should be copied and modified:
   ```html
 <tr>
 	<td>Mar 20, 2019</td>
