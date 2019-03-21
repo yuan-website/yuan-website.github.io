@@ -5,7 +5,7 @@ This repository is for the website of Prof. Yuan's group at SHAO (center.shao.ac
 # For the organiser of Journal club
 
 What needs to be modified in club_activities.html is quite straightforward - just copy the code between '<tr>' and '</tr>' in '<tbody>' and edit it accordingly. For example:
-  '''
+  '''html
   <tr>
 					<td>Mar 20, 2019</td>
 					<td>2:00 pm</td>
